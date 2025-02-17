@@ -1,0 +1,13 @@
+package com.seamk.springdockertest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringdockertestApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringdockertestApplication.class, args);
+	}
+
+}
